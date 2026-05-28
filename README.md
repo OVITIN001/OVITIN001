@@ -4,58 +4,37 @@ Projeto criado para praticar programação em Python enquanto estou aprendendo d
 
 ---
 
-## 📚 Sobre Mim
+👨‍💻 Sobre Mim
 
-👋 Olá eu sou o Victor Hugo
-Sou iniciante em programação e atualmente estou aprendendo **Python** 🐍.
+Olá! Meu nome é Victor 😄
 
-Este projeto faz parte dos meus estudos para melhorar minhas habilidades em:
+Sou iniciante em programação e atualmente estou aprendendo:
 
-* lógica de programação
-* criação de projetos
-* desenvolvimento com Python
-* GitHub
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-* Python
-* Streamlit
-* HTML/CSS
+Python 🐍
+Lógica de programação
+Desenvolvimento web
+Git e GitHub
+Criação de projetos
 
 ---
-
-## ⚙️ Como Executar
-
-```bash id="kq9s12"
-git clone https://github.com/seuusuario/seuprojeto.git
-```
-
-```bash id="x8dm41"
-cd seuprojeto
-```
-
-```bash id="v7la21"
-streamlit run app.py
-```
+📈 Evolução
+Esse projeto representa minha evolução nos estudos de programação 🚀
 
 ---
-
-## 📂 Estrutura do Projeto
-
-```bash id="f4mn22"
-📁 projeto
- ┣ 📄 app.py
- ┣ 📄 README.md
- ┗ 📁 assets
-```
-
+📞 Contato
+📧 Email: victorhugodacostaalmeida2807@email.com
+📸 Instagram: @ovitin001
 ---
+
 
 ## 🎯 Objetivo
 
 Aprender programação na prática criando projetos reais e evoluindo cada vez mais 🚀
+
+---
+⭐ Obrigado por visitar meu projeto!
+
+Se gostou, deixe uma estrela no repositório ⭐
 
 ---
 
