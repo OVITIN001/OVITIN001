@@ -39,11 +39,6 @@ Feito por Victor Hugo
 
 GitHub: https://github.com/OVITIN00
 
-# 📸 Preview do Projeto
+<p align="center"> <img src="./paulwalker.png" width="850"/> </p>
 
-## 📸 Preview
-
-## 📸 Preview
-
-![Paul Walker Programando](./assets/paulwalker-python.png)
 
