@@ -1,8 +1,3 @@
-# 🚀 Nome do Projeto
-
-Projeto criado para praticar programação em Python enquanto estou aprendendo desenvolvimento.
-
----
 
 👨‍💻 Sobre Mim
 
